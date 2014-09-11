@@ -18,7 +18,8 @@ Ook hoef je niet naast dit project apart te documenteren, beschrijf onderaan de 
 Stap 1: Creeer je eigen webserver omgeving (installeer Apache) bijv. wampserver
 Stap 2: Lees je in in Github (Hoe maak je bijv. een Branch en hoe commit je jou code) (Youtube)
 Stap 3: Maak een branch van de master met de toegewezen issuenummer of titel (Youtube)
-Stap 4: Download een PHP Editor (PhpStorm aanbevolen) 
+Stap 4: Download de laatste versie van CodeIgniter
+Stap 5: Download een PHP Editor (PhpStorm aanbevolen) 
 
-Stap 5: Kijk welke issue aan jou is toegewezen met de bijbehorende deadline en start met coderen!!! 
+Stap 6: Kijk welke issue aan jou is toegewezen met de bijbehorende deadline en start met coderen!!! 
 ```
