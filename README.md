@@ -22,4 +22,7 @@ Stap 4: Download de laatste versie van CodeIgniter
 Stap 5: Download een PHP Editor (PhpStorm aanbevolen) 
 
 Stap 6: Kijk welke issue aan jou is toegewezen met de bijbehorende deadline en start met coderen!!! 
+
+Stap 7: Maak een pull request, nadat je de issue opgelost denkt te hebben, de docent beoordeeld de code en merged samen met de master. 
+
 ```
