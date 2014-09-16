@@ -18,7 +18,7 @@ Ook hoef je niet naast dit project apart te documenteren, beschrijf onderaan de 
 Stap 1: Creeer je eigen webserver omgeving (installeer Apache) bijv. wampserver
 Stap 2: Lees je in in Github (Hoe maak je bijv. een Branch en hoe commit je jou code) (Youtube)
 Stap 3: Download een PHP Editor (PhpStorm aanbevolen, vraag vervolgens om een schoollicentie)
-Stap 4: Fork de repository. (Maak een lokale kopie van het project)
+Stap 4: Creeer je eigen branch en voer de wijziging door en bied het vervolgens aan als een pull request.
 Stap 5: Kijk welke issue aan jou is toegewezen met de bijbehorende deadline en start met coderen!!
 Stap 6: Maak een pull request binnen de deadline, nadat je de issue opgelost denkt te hebben, de docent beoordeeld de code en merged samen met de master. Is de pull request positief, dan wordt de status van de issue gewijzigd in SOLVED 
 
